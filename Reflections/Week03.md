@@ -21,5 +21,14 @@
 
 ## Task 1 Handout A-CampusEats Table
 
-| Waterfall | Agile |
-| --- | --- |
+| Area | Waterfall | Agile |
+| --- | --- | --- |
+| Requirements | Original requirements must be revalued and documented. | Add the request to the backlog and define criteria. |
+| Documentations/Sign offs | Documentation may need revision and reapproval. | Update relevant documentation as needed, this gets constantly reviewed throughout development. |
+| Design | Previously approved designs need to be reviewed and potentially reworked. | Modify the necessary design components incrementally.|
+| Implementation | Completed code may need reworked across many components. | Break changes into smaller parts and implement throughout. |
+| UI | Several completed screens need revision and reapproval. | Screens affected need to be updated. |
+| Testing | Repeat testing after implementation and make sure new features work with old. | Test throughout development and as implementing run regression tests. |
+| Client involvement | The change may need additional approval before proceeding | Clients can provide feedback during reviews every sprint |
+| Cost & Effort | Potentially high due to all the rework and additional approval processes | Potentially lower due to changes being isolated and prioritised even if the technical work stays the same. |
+| Schedule | Great risk of delaying the project due to an unforseen problem | The backlog can be reprioritised, may still need to be delayed |
