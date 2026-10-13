@@ -32,3 +32,11 @@
 | Client involvement | The change may need additional approval before proceeding | Clients can provide feedback during reviews every sprint |
 | Cost & Effort | Potentially high due to all the rework and additional approval processes | Potentially lower due to changes being isolated and prioritised even if the technical work stays the same. |
 | Schedule | Great risk of delaying the project due to an unforseen problem | The backlog can be reprioritised, may still need to be delayed |
+
+
+## Task 2 Handout B-Quickbuild Solutions 3 weaknesses
+
+"Code is pushed directly to the main branch with no review from another developer before it goes live."- this is an issue as if two people at the same time commit to the main then problems may incur, normally this is fixed by each team member having their own branch.
+
+
+
