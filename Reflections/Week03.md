@@ -38,5 +38,26 @@
 
 "Code is pushed directly to the main branch with no review from another developer before it goes live."- this is an issue as if two people at the same time commit to the main then problems may incur, normally this is fixed by each team member having their own branch.
 
+"Requirements are communicated verbally by the client to the team lead, who relays them to developers from memory in a Monday morning chat message."- this can be an issue because it means if the communication wasnt done right or a developers picked them up wrong adn the requirements being incorrectly made as there was no written down component, this is shown to be the case by "The team has shipped several features late because a client-reported 'bug' turned out to be a misunderstanding of a
+verbally-communicated requirement that was never written down."
+
+ "Testing consists of the developer who wrote a feature trying it themselves once before moving on to the next task"- Testing should be done with more than 1 person especially if the one person is the developer as he can overlook something that maybe someone else wouldn't
+
+ ## Task 2 Handout B-Quickbuild Solutions agile/lightweight, will it improve?
+
+ 1 this is mainly an issue with basic development controls ratgher than something an lightweight agile process can fix.
+
+ 2 Agile doesnt need extensive documentation but it does need clear communication and a shared understanding of what needs to be developed.
+
+ 3 Becasue there is much more testing in agile developments this could get picked up and fixed with the use of agile developing.
+
+  ## Task 2 Handout B-Quickbuild Solutions MoSCoW
+  
+| Priortiy | weakness | improvement |
+| --- | --- | --- |
+| must | Requirements are communicaterd verbally and theres no documentation | document ass requirements in a shared document |
+| should | Code is being pushed directly into main branch without review | Each developer has their own branch and have another developer look at the branch before merging to main |
+| could | Developers are testing their own feature | Introduce a peer testing model where teams test each features requirements before release |
+
 
 
