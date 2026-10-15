@@ -55,7 +55,7 @@ verbally-communicated requirement that was never written down."
   
 | Priortiy | weakness | improvement |
 | --- | --- | --- |
-| must | Requirements are communicaterd verbally and theres no documentation | document ass requirements in a shared document |
+| must | Requirements are communicaterd verbally and theres no documentation | document as requirements in a shared document |
 | should | Code is being pushed directly into main branch without review | Each developer has their own branch and have another developer look at the branch before merging to main |
 | could | Developers are testing their own feature | Introduce a peer testing model where teams test each features requirements before release |
 
