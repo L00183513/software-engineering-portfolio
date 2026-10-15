@@ -28,5 +28,7 @@
 12. reminders for bookings
 13. export monthly report
 14. rate pitch conditions
-
 ## Task 1 mid point daily scrum update
+Whats done?: I've created the trello board, t-shirt sized and prioritized the user stories, set a sprint goal and applied WIP limit of 2. I've started working on viewing available pitch slots
+Whats next?: I'll finish the available slots feature and continue working on booking a pitch slot. If time allows, i'll start on the booking confirmation email.
+Any blockers?:  The booking feature needs accurate availability information and must prevent 2 users  from booking the same slot. The confirmation email also depedns on a successful booking, so i need to focus on core booking functionality.
