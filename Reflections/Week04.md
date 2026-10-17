@@ -44,7 +44,7 @@ User Story: As a Lecturer, I want to be capable of marking a class as reschedule
 Acceptance Criteria: 1. the lecturer can mark a scheduled class as rescheduled or cancelled\
 2. When rescheduling a class, the lecturer can enter a new date, time and location\
 3. When a class is canceled or rescheduled, the updated status and details are displayed on the student timetable.\
-4. affected students are notified of the cancellation or rescheduling.\
+4. affected students are notified of the cancellation or rescheduling.
 
 User Story: As a adminsitrator, I want to see what timetable slots are over capacity, so that I know not to schedule more classes at that time slot.\
 Acceptance Criteria: 1. The system identifies the time slots that classes exceed room availability\
